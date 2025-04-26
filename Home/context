@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Context - AI Evolution</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <nav>
+        <a href="index.html">Home</a> |
+        <a href="context.html">Context</a> |
+        <a href="claim1.html">Claim 1</a> |
+        <a href="claim2.html">Claim 2</a> |
+        <a href="solution.html">Solution</a> |
+        <a href="conclusion.html">Conclusion</a>
+    </nav>
+</header>
+<main>
+    <h2>The Evolution and Context of Artificial Intelligence</h2>
+
+    <section>
+        <p>Artificial Intelligence (AI) has evolved from an abstract theory into one of the most transformative forces of the 21st century. 
+        The term was first introduced by John McCarthy in 1956, envisioning machines that could simulate human intelligence. 
+        Decades of steady progress led to historic milestones, such as IBM’s Deep Blue defeating chess grandmaster Garry Kasparov in 1997, and the emergence of deep learning systems capable of surpassing human abilities in specific tasks by the 2010s. 
+        Today, AI is seamlessly integrated into industries like healthcare, where it aids in diagnostics, and transportation, where it powers autonomous vehicles. 
+        As AI systems become more sophisticated, they redefine human capabilities and reshape global economies.</p>
+    </section>
+
+    <section>
+        <p>Despite AI’s enormous promise, its rise introduces complex challenges that demand careful attention. 
+        From job displacement due to automation, to algorithmic biases that reinforce social inequalities, the societal impacts of AI cannot be overlooked. 
+        In healthcare, AI-driven diagnostics have saved lives, yet biased datasets have also led to flawed outcomes in areas like facial recognition and predictive policing (AI Now Institute, 2019). 
+        The rapid spread of AI technologies without standardized ethical guidelines poses risks to privacy, fairness, and employment opportunities. 
+        Without strategic regulation and responsible innovation, the benefits of AI could be unequally distributed, exacerbating existing societal divides.</p>
+    </section>
+
+    <section>
+        <h3>Key Milestones and Issues in AI Development:</h3>
+        <ul>
+            <li><strong>1956:</strong> John McCarthy coins the term "Artificial Intelligence" at the Dartmouth Conference.</li>
+            <li><strong>1997:</strong> IBM’s Deep Blue defeats world chess champion Garry Kasparov.</li>
+            <li><strong>2011:</strong> IBM Watson wins Jeopardy! against human champions.</li>
+            <li><strong>Today:</strong> AI powers autonomous vehicles, healthcare diagnostics, financial forecasting, and more.</li>
+            <li><strong>Challenges:</strong> Algorithmic bias, job displacement, cybersecurity risks, and data privacy concerns continue to grow.</li>
+        </ul>
+    </section>
+
+    <img src="https://via.placeholder.com/800x400?text=AI+History+and+Applications" alt="Timeline of AI Development">
+
+    <section>
+        <p><a href="claim1.html" style="color: #90caf9;">Next: Why AI Regulation Is Necessary &rarr;</a></p>
+    </section>
+</main>
+<footer>
+    <p>&copy; 2025 AI Research Project</p>
+</footer>
+</body>
+</html>
