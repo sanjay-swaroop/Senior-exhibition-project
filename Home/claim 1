@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Claim 1 - Regulation is Necessary</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <nav>
+        <a href="index.html">Home</a> |
+        <a href="context.html">Context</a> |
+        <a href="claim1.html">Claim 1</a> |
+        <a href="claim2.html">Claim 2</a> |
+        <a href="solution.html">Solution</a> |
+        <a href="conclusion.html">Conclusion</a>
+    </nav>
+</header>
+<main>
+    <h2>Claim 1: Regulation is Necessary to Mitigate AI's Negative Consequences</h2>
+
+    <section>
+        <p>While Artificial Intelligence offers tremendous benefits, unregulated development poses serious risks to society. 
+        One of the most pressing concerns is the displacement of workers across multiple industries, as AI and automation systems outperform human labor in repetitive or routine tasks. 
+        According to the McKinsey Global Institute (2017), as many as 800 million jobs could be displaced globally by 2030, with lower-income and less-educated workers facing the greatest vulnerabilities. 
+        Without intervention, the economic and social consequences could lead to greater inequality, community destabilization, and loss of trust in technological progress. 
+        Regulation is essential to ensure that workers are protected through retraining programs and that technological disruption does not widen societal divides.</p>
+    </section>
+
+    <section>
+        <p>Beyond economic impacts, AI systems have been shown to reinforce biases when trained on historical or imbalanced data. 
+        A study by the MIT Media Lab (2018) found that facial recognition algorithms misidentified darker-skinned and female faces at significantly higher rates, raising concerns about systemic discrimination. 
+        Furthermore, AI's increasing role in sensitive areas like policing, hiring, and healthcare necessitates stringent oversight to prevent harm. 
+        Regulatory frameworks that mandate transparency, explainability, and fairness can help ensure that AI is aligned with democratic values and human rights. 
+        Without proactive governance, AI could unintentionally amplify prejudice, reduce accountability, and erode public trust in both technology and institutions.</p>
+    </section>
+
+    <section>
+        <h3>Key Reasons for AI Regulation:</h3>
+        <ul>
+            <li><strong>Job Displacement:</strong> Up to 800 million workers could be displaced by 2030 (McKinsey, 2017).</li>
+            <li><strong>Algorithmic Bias:</strong> AI systems have exhibited racial and gender biases in hiring, facial recognition, and criminal justice applications.</li>
+            <li><strong>Privacy and Data Risks:</strong> AI-driven surveillance and data misuse threaten individual rights.</li>
+            <li><strong>Security Threats:</strong> Poorly secured AI systems can be exploited for cyberattacks and misinformation campaigns.</li>
+            <li><strong>Public Trust:</strong> Transparent and fair regulation builds public confidence in emerging technologies.</li>
+        </ul>
+    </section>
+
+    <img src="https://via.placeholder.com/800x400?text=Why+AI+Needs+Regulation" alt="Need for AI Regulation">
+
+    <section>
+        <p><a href="claim2.html" style="color: #90caf9;">Next: Explore the Risks of Over-Regulation &rarr;</a></p>
+    </section>
+</main>
+<footer>
+    <p>&copy; 2025 AI Research Project</p>
+</footer>
+</body>
+</html>
